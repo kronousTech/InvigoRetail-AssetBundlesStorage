@@ -1,17 +1,17 @@
-BundleVersion: 202511184448
+BundleVersion: 202511203159
 ManifestFileVersion: 0
 UnityVersion: 6000.0.58f2
-CRC: 4142782922
+CRC: 3233892033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6afb892ae61d430bce2e04578864573
+    Hash: 71d51bc2fe880730818fff0ec737acb8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 02891d9e88e5268131f274408ebabf71
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f2c725df391dc7747c9bf0d69c446a7a
+    Hash: b1c7547f0ad4a7eb44bee3ceb0fc2305
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,6 +32,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Art/Materials/TestMat1.mat
 - Assets/Art/Prefabs/TestCube1.prefab
 Dependencies: []
 
